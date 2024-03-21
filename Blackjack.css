@@ -1,0 +1,52 @@
+* {
+    margin: auto;
+}
+
+body{
+    background: black;
+    text-align: center;
+    
+}
+
+h1{
+    margin-bottom: 50px;
+    font-size: 75px;
+    color: goldenrod;
+    text-shadow: -4px 3px 5px rgb(157, 79, 229);
+}
+
+#message_el{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: -2px 2px 3px aquamarine;
+}
+
+h2{
+    font-style: italic;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: -2px 2px 3px black;
+    
+}
+
+#game_start{
+    width: 250px;
+    border-radius:25px ;
+    border: 0px;
+    padding: 15px;
+    background-color: rgb(157, 79, 229);
+    color: #3AF5B6;
+    font-weight: bold;
+    font-size: large;
+}
+#game_start:hover{
+    background-color: goldenrod;
+    color: rgb(157, 79, 229);
+}
+
+
+
+
+
